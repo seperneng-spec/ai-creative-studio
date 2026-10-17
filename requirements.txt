@@ -14,3 +14,11 @@ pydub==0.25.1
 
 # Utilities
 python-dotenv==1.0.0
+rembg
+pillow
+requests
+moviepy
+gTTS
+python-dotenv
+opencv-python
+numpy
