@@ -1,0 +1,16 @@
+# AI Image Generation & Processing
+rembg==2.0.53
+Pillow==10.1.0
+requests==2.31.0
+
+# Video & Animation
+moviepy==1.0.3
+numpy==1.26.2
+opencv-python==4.8.1.78
+
+# Audio
+gTTS==2.4.0
+pydub==0.25.1
+
+# Utilities
+python-dotenv==1.0.0
